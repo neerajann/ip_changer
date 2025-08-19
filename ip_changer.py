@@ -9,7 +9,7 @@ TOR_PROXY = {
 }
 
 CONTROL_PORT = 9051
-TOR_PASSWORD = "#Neerajan@9821"  # use the password you set in torrc
+TOR_PASSWORD = "YOURPASSWORD"  # use the password you set in torrc
 INTERVAL = 10  # seconds
 
 def get_ip():
