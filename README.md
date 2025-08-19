@@ -16,8 +16,8 @@ This tool uses Tor's ControlPort with password authentication to request a new T
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/tor-ip-rotator.git
-cd tor-ip-rotator
+git clone https://github.com/neerajann/ip_changer/
+cd ip_changer
 ```
 
 ### 2. Create a Python virtual environment
